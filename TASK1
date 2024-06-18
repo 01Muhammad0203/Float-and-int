@@ -1,6 +1,6 @@
-a= int(input())
-b = int(input())
-P = (a*2)+(b*2)
-S = a*b
-print ( "Периметр =" , P)
-print ( "Площадь прямоугольника равна = " , S)
+a = float(input())
+b = float(input())
+P = (a * 2) + (b * 2)
+S = a * b
+print("Периметр =", P)
+print("Площадь прямоугольника равна =", S)
